@@ -1,9 +1,447 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83fc35c3-be77-4d0d-91a5-becb28d03ca5" name="Default" comment="" />
+    <list default="true" id="83fc35c3-be77-4d0d-91a5-becb28d03ca5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/junit_3_8_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/servlet_api_2_4.xml" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\LucenePackage.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\ASCIIFoldingFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\Analyzer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\BaseCharFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\CachingTokenFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\CharArraySet.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\CharFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\CharReader.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\CharStream.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\CharTokenizer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\CharacterCache.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\ISOLatin1AccentFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\KeywordAnalyzer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\KeywordTokenizer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\LengthFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\LetterTokenizer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\LowerCaseFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\LowerCaseTokenizer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\MappingCharFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\NormalizeCharMap.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\NumericTokenStream.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\PerFieldAnalyzerWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\PorterStemFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\PorterStemmer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\SimpleAnalyzer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\SinkTokenizer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\StopAnalyzer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\StopFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\TeeSinkTokenFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\TeeTokenFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\Token.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\TokenFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\TokenStream.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\TokenWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\Tokenizer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\WhitespaceAnalyzer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\WhitespaceTokenizer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\WordlistLoader.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\package.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\standard\StandardAnalyzer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\standard\StandardFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\standard\StandardTokenizer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\standard\StandardTokenizerImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\standard\StandardTokenizerImpl.jflex" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\standard\package.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\tokenattributes\FlagsAttribute.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\tokenattributes\FlagsAttributeImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\tokenattributes\OffsetAttribute.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\tokenattributes\OffsetAttributeImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\tokenattributes\PayloadAttribute.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\tokenattributes\PayloadAttributeImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\tokenattributes\PositionIncrementAttribute.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\tokenattributes\PositionIncrementAttributeImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\tokenattributes\TermAttribute.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\tokenattributes\TermAttributeImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\tokenattributes\TypeAttribute.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\analysis\tokenattributes\TypeAttributeImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\document\AbstractField.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\document\CompressionTools.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\document\DateField.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\document\DateTools.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\document\Document.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\document\Field.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\document\FieldSelector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\document\FieldSelectorResult.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\document\Fieldable.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\document\LoadFirstFieldSelector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\document\MapFieldSelector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\document\NumberTools.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\document\NumericField.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\document\SetBasedFieldSelector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\document\package.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\AbstractAllTermDocs.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\AllTermDocs.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\BufferedDeletes.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\ByteBlockPool.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\ByteSliceReader.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\ByteSliceWriter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\CharBlockPool.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\CheckIndex.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\CompoundFileReader.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\CompoundFileWriter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\ConcurrentMergeScheduler.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\CorruptIndexException.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\DefaultSkipListReader.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\DefaultSkipListWriter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\DirectoryOwningReader.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\DirectoryReader.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\DocConsumer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\DocConsumerPerThread.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\DocFieldConsumer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\DocFieldConsumerPerField.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\DocFieldConsumerPerThread.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\DocFieldConsumers.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\DocFieldConsumersPerField.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\DocFieldConsumersPerThread.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\DocFieldProcessor.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\DocFieldProcessorPerField.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\DocFieldProcessorPerThread.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\DocInverter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\DocInverterPerField.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\DocInverterPerThread.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\DocumentsWriter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\DocumentsWriterThreadState.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\FieldInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\FieldInfos.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\FieldInvertState.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\FieldReaderException.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\FieldSortedTermVectorMapper.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\FieldsReader.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\FieldsWriter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\FilterIndexReader.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\FormatPostingsDocsConsumer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\FormatPostingsDocsWriter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\FormatPostingsFieldsConsumer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\FormatPostingsFieldsWriter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\FormatPostingsPositionsConsumer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\FormatPostingsPositionsWriter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\FormatPostingsTermsConsumer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\FormatPostingsTermsWriter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\FreqProxFieldMergeState.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\FreqProxTermsWriter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\FreqProxTermsWriterPerField.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\FreqProxTermsWriterPerThread.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\IndexCommit.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\IndexCommitPoint.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\IndexDeletionPolicy.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\IndexFileDeleter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\IndexFileNameFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\IndexFileNames.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\IndexModifier.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\IndexReader.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\IndexWriter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\IntBlockPool.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\InvertedDocConsumer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\InvertedDocConsumerPerField.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\InvertedDocConsumerPerThread.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\InvertedDocEndConsumer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\InvertedDocEndConsumerPerField.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\InvertedDocEndConsumerPerThread.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\KeepOnlyLastCommitDeletionPolicy.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\LogByteSizeMergePolicy.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\LogDocMergePolicy.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\LogMergePolicy.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\MergeDocIDRemapper.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\MergePolicy.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\MergeScheduler.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\MultiLevelSkipListReader.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\MultiLevelSkipListWriter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\MultiReader.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\MultipleTermPositions.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\NormsWriter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\NormsWriterPerField.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\NormsWriterPerThread.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\ParallelReader.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\Payload.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\PositionBasedTermVectorMapper.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\RawPostingList.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\ReadOnlyDirectoryReader.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\ReadOnlySegmentReader.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\ReusableStringReader.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\SegmentInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\SegmentInfos.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\SegmentMergeInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\SegmentMergeQueue.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\SegmentMerger.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\SegmentReader.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\SegmentTermDocs.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\SegmentTermEnum.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\SegmentTermPositionVector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\SegmentTermPositions.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\SegmentTermVector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\SegmentWriteState.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\SerialMergeScheduler.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\SnapshotDeletionPolicy.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\SortedTermVectorMapper.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\StaleReaderException.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\StoredFieldsWriter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\StoredFieldsWriterPerThread.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\Term.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\TermBuffer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\TermDocs.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\TermEnum.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\TermFreqVector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\TermInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\TermInfosReader.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\TermInfosWriter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\TermPositionVector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\TermPositions.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\TermVectorEntry.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\TermVectorEntryFreqSortedComparator.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\TermVectorMapper.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\TermVectorOffsetInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\TermVectorsReader.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\TermVectorsTermsWriter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\TermVectorsTermsWriterPerField.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\TermVectorsTermsWriterPerThread.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\TermVectorsWriter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\TermsHash.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\TermsHashConsumer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\TermsHashConsumerPerField.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\TermsHashConsumerPerThread.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\TermsHashPerField.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\TermsHashPerThread.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\index\package.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\messages\Message.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\messages\MessageImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\messages\NLS.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\messages\NLSException.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\messages\package.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\package.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\queryParser\CharStream.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\queryParser\FastCharStream.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\queryParser\MultiFieldQueryParser.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\queryParser\ParseException.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\queryParser\QueryParser.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\queryParser\QueryParser.jj" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\queryParser\QueryParserConstants.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\queryParser\QueryParserTokenManager.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\queryParser\Token.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\queryParser\TokenMgrError.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\queryParser\package.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\BooleanClause.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\BooleanQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\BooleanScorer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\BooleanScorer2.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\CachingSpanFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\CachingWrapperFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\Collector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\ComplexExplanation.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\ConjunctionScorer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\ConstantScoreQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\ConstantScoreRangeQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\DefaultSimilarity.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\DisjunctionMaxQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\DisjunctionMaxScorer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\DisjunctionSumScorer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\DocIdSet.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\DocIdSetIterator.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\ExactPhraseScorer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\Explanation.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\ExtendedFieldCache.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\FieldCache.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\FieldCacheImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\FieldCacheRangeFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\FieldCacheTermsFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\FieldComparator.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\FieldComparatorSource.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\FieldDoc.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\FieldDocSortedHitQueue.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\FieldSortedHitQueue.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\FieldValueHitQueue.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\Filter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\FilterManager.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\FilteredDocIdSet.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\FilteredDocIdSetIterator.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\FilteredQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\FilteredTermEnum.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\FuzzyQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\FuzzyTermEnum.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\Hit.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\HitCollector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\HitCollectorWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\HitIterator.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\HitQueue.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\Hits.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\IndexSearcher.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\MatchAllDocsQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\MultiPhraseQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\MultiSearcher.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\MultiTermQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\MultiTermQueryWrapperFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\NumericRangeFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\NumericRangeQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\ParallelMultiSearcher.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\PhrasePositions.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\PhraseQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\PhraseQueue.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\PhraseScorer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\PositiveScoresOnlyCollector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\PrefixFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\PrefixQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\PrefixTermEnum.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\Query.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\QueryFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\QueryTermVector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\QueryWrapperFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\RangeFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\RangeQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\ReqExclScorer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\ReqOptSumScorer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\ScoreCachingWrappingScorer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\ScoreDoc.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\ScoreDocComparator.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\Scorer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\Searchable.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\Searcher.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\Similarity.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\SimilarityDelegator.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\SloppyPhraseScorer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\Sort.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\SortComparator.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\SortComparatorSource.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\SortField.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\SpanFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\SpanFilterResult.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\SpanQueryFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\TermQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\TermRangeFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\TermRangeQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\TermRangeTermEnum.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\TermScorer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\TimeLimitedCollector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\TimeLimitingCollector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\TopDocCollector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\TopDocs.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\TopDocsCollector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\TopFieldCollector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\TopFieldDocCollector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\TopFieldDocs.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\TopScoreDocCollector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\Weight.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\WildcardQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\WildcardTermEnum.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\function\ByteFieldSource.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\function\CustomScoreProvider.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\function\CustomScoreQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\function\DocValues.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\function\FieldCacheSource.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\function\FieldScoreQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\function\FloatFieldSource.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\function\IntFieldSource.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\function\MultiValueSource.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\function\OrdFieldSource.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\function\ReverseOrdFieldSource.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\function\ShortFieldSource.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\function\ValueSource.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\function\ValueSourceQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\function\package.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\package.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\payloads\AveragePayloadFunction.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\payloads\BoostingTermQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\payloads\MaxPayloadFunction.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\payloads\MinPayloadFunction.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\payloads\PayloadFunction.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\payloads\PayloadNearQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\payloads\PayloadSpanUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\payloads\PayloadTermQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\payloads\package.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\spans\FieldMaskingSpanQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\spans\NearSpansOrdered.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\spans\NearSpansUnordered.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\spans\SpanFirstQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\spans\SpanNearQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\spans\SpanNotQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\spans\SpanOrQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\spans\SpanQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\spans\SpanScorer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\spans\SpanTermQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\spans\SpanWeight.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\spans\Spans.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\spans\TermSpans.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\search\spans\package.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\AlreadyClosedException.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\BufferedIndexInput.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\BufferedIndexOutput.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\ChecksumIndexInput.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\ChecksumIndexOutput.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\Directory.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\FSDirectory.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\FSLockFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\FileSwitchDirectory.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\IndexInput.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\IndexOutput.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\Lock.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\LockFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\LockObtainFailedException.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\LockReleaseFailedException.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\LockStressTest.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\LockVerifyServer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\MMapDirectory.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\NIOFSDirectory.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\NativeFSLockFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\NoLockFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\NoSuchDirectoryException.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\RAMDirectory.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\RAMFile.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\RAMInputStream.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\RAMOutputStream.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\SimpleFSDirectory.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\SimpleFSLockFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\SingleInstanceLockFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\VerifyingLockFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\store\package.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\ArrayUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\Attribute.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\AttributeImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\AttributeSource.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\AverageGuessMemoryModel.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\BitUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\BitVector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\CloseableThreadLocal.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\Constants.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\DocIdBitSet.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\FieldCacheSanityChecker.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\IndexableBinaryStringTools.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\MapOfSets.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\MemoryModel.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\NumericUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\OpenBitSet.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\OpenBitSetDISI.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\OpenBitSetIterator.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\Parameter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\PriorityQueue.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\RamUsageEstimator.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\ReaderUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\ScorerDocQueue.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\SimpleStringInterner.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\SmallFloat.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\SortedVIntList.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\SorterTemplate.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\StringHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\StringInterner.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\ToStringUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\UnicodeUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\Version.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\cache\Cache.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\cache\SimpleLRUCache.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\cache\SimpleMapCache.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Project\OpenSource\lucene-study\src\org\apache\lucene\util\package.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lucene-study.iml" afterPath="$PROJECT_DIR$/lucene-study.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="lucene-study.iws" />
     <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="83fc35c3-be77-4d0d-91a5-becb28d03ca5" time="1364918569273" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +497,52 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="lucene-study" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="78" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestASCIIFoldingFilter.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/apache/lucene/analysis/TestASCIIFoldingFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="36" selection-start="461" selection-end="461" vertical-scroll-proportion="0.3548387">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Analyzer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/apache/lucene/analysis/Analyzer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="7" selection-start="1215" selection-end="1215" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -118,12 +602,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="settings.github" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/servlet-api-2.4.jar!/" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -224,6 +716,24 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="83fc35c3-be77-4d0d-91a5-becb28d03ca5" name="Default" comment="" />
@@ -313,6 +823,120 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="78" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/apache/lucene/analysis/Analyzer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="7" selection-start="1215" selection-end="1215" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/apache/lucene/analysis/TestASCIIFoldingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="36" selection-start="461" selection-end="461" vertical-scroll-proportion="0.3548387">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>groovy-2.1.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>lucene-study</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20618556" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>servlet-api-2.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
 
