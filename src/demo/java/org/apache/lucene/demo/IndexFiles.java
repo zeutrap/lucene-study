@@ -36,7 +36,7 @@ public class IndexFiles {
   
   /** Index all text files under a directory. */
   public static void main(String[] args) {
-    String directory = "./out/";
+    String directory = "./";
     String usage = "java org.apache.lucene.demo.IndexFiles <root_directory>";
     if (args.length == 0) {
       System.err.println("Usage: " + usage);
