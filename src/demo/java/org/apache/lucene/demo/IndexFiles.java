@@ -32,14 +32,16 @@ public class IndexFiles {
   
   private IndexFiles() {}
 
-  static final File INDEX_DIR = new File("index");
+  static final File INDEX_DIR = new File("data/index");
   
   /** Index all text files under a directory. */
   public static void main(String[] args) {
+    String directory = "./out/";
     String usage = "java org.apache.lucene.demo.IndexFiles <root_directory>";
     if (args.length == 0) {
       System.err.println("Usage: " + usage);
-      System.exit(1);
+    } else {
+        directory = args[0];
     }
 
     if (INDEX_DIR.exists()) {
@@ -47,7 +49,7 @@ public class IndexFiles {
       System.exit(1);
     }
     
-    final File docDir = new File(args[0]);
+    final File docDir = new File(directory);
     if (!docDir.exists() || !docDir.canRead()) {
       System.out.println("Document directory '" +docDir.getAbsolutePath()+ "' does not exist or is not readable, please check the path");
       System.exit(1);
